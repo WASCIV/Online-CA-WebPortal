@@ -1,0 +1,23 @@
+/* 
+    Document   : vmenu
+    Created on : Mar 28, 2013, 1:19:12 PM
+    Author     : chandan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#menu ul,#menu li { margin:0; padding:0; }
+	#menu li {list-style:none;width:160px;clear:both;}
+
+	#menu a { display:block;margin:0 auto;color:#fff;text-decoration:none; background:url(_right.png) right top no-repeat;}
+
+	#menu a span { display:block;text-align:left;background:url(_left.png) left top no-repeat; font:bold 12px/30px Arial, Helvetica, sans-serif;  padding:0 20px; }
+
+	#menu a:hover { background-position:right bottom;text-decoration:underline}
+	#menu a:hover span { background-position:left bottom;  }
+
