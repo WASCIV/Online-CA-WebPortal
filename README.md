@@ -7,7 +7,7 @@ Online CA Web Portal which i made in 2021 I'm just posting it just like this
 
 ## How to use the this Portal in Windows ?
 
-1. First Of make sure to install everything from JavaTools.zip 
+1. First Of make sure to install everything from JavaTools (https://drive.google.com/drive/folders/16qfiSm5G8_wc3iifEFR8Tbo5QnhLL__o?usp=share_link)
 
 2. Then As mentioned in screenshot do the changes to the properties and make sure to Install Apache..You can only host on Localhost
 
